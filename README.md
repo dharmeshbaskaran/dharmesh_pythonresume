@@ -8,14 +8,23 @@
   <br>
 </h1>
 
-<p align="center">
-  <a href="">
-   <img src="">
-  </a>
-  <a href="https://github.com/dharmeshbaskaran/dharmesh_pythonresume">
-    <img src="https://img.shields.io/github/downloads/dharmeshbaskaran/dharmesh_pythonresume.git/total?style=for-the-badge">
-  </a>
-  <a href="">
-      <img src="">
-  </a>
-</p>
+
+
+### Installation [!] Requires python3
+
+THIS PYTHON PROGRAM NEED FEW REQUIREMENTS. FOLLOW THE BELOW  STEP.
+
+-> cd dharmesh_pythonresume
+-> pip3 install requirements.txt
+
+
+### Usage [!] Requires python3
+
+-> python3 dharmeshresume.py
+
+Do you want to have a conversation in private? Hit me up on
+Twitter: @dharmesh789
+Linkedin: https://www.linkedin.com/in/dharmeshbaskaran
+
+
+ENJOY WITH MY PYTHON RESUME. HAVE A NICE DAY :)
