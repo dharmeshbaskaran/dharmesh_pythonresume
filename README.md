@@ -13,7 +13,7 @@
    <img src="">
   </a>
   <a href="https://github.com/dharmeshbaskaran/dharmesh_pythonresume">
-    <img src="https://img.shields.io/clojars/dt/downloads?style=for-the-badge">
+    <img src="https://img.shields.io/github/downloads/dharmeshbaskaran/dharmesh_pythonresume.git/total?style=for-the-badge">
   </a>
   <a href="">
       <img src="">
