@@ -7,3 +7,15 @@
   DHARMESH PYTHON RESUME
   <br>
 </h1>
+
+<p align="center">
+  <a href="">
+   <img src="">
+  </a>
+  <a href="https://github.com/dharmeshbaskaran/dharmesh_pythonresume">
+    <img src="https://img.shields.io/clojars/dt/downloads?style=for-the-badge">
+  </a>
+  <a href="">
+      <img src="">
+  </a>
+</p>
