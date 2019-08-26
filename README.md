@@ -15,6 +15,7 @@
 THIS PYTHON PROGRAM NEED FEW REQUIREMENTS. FOLLOW THE BELOW  STEP.
 
 -> cd dharmesh_pythonresume
+<br>
 -> pip3 install requirements.txt
 
 
@@ -23,7 +24,9 @@ THIS PYTHON PROGRAM NEED FEW REQUIREMENTS. FOLLOW THE BELOW  STEP.
 -> python3 dharmeshresume.py
 
 Do you want to have a conversation in private? Hit me up on
+<br>
 Twitter: @dharmesh789
+<br>
 Linkedin: https://www.linkedin.com/in/dharmeshbaskaran
 
 
