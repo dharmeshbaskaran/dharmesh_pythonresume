@@ -9,8 +9,14 @@
 </h1>
 
 
+### Compatibility
 
-### Installation [!] Requires python3
+Operating Systems: Windows, Linux, Mac
+<br>
+Python Versions: Python 3.x and above
+
+
+### Installation [!] Requires pip3
 
 THIS PYTHON PROGRAM NEED FEW REQUIREMENTS. FOLLOW THE BELOW  STEP.
 
