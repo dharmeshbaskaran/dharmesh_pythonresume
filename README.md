@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/dharmeshbaskaran/dharmesh_pythonresume"><img src="https://ibb.co/99Mgt86"></a>
+  <a href="https://github.com/dharmeshbaskaran/dharmesh_pythonresume"><img src="https://i.ibb.co/tMdKXmg/DHARMESH-PYTHON-RESUME.jpg"></a>
   <br>
   DHARMESH PYTHON RESUME
   <br>
