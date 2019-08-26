@@ -22,7 +22,7 @@ THIS PYTHON PROGRAM NEED FEW REQUIREMENTS. FOLLOW THE BELOW  STEP.
 
 -> cd dharmesh_pythonresume
 <br>
--> pip3 install requirements.txt
+-> pip3 install -r requirements.txt
 
 
 ### Usage [!] Requires python3
