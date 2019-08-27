@@ -28,7 +28,7 @@ print()
 cprint("HALL OF FAME", 'blue', attrs=['bold'])
 time.sleep(1)
 
-words = " Microsoft - Host Header Injection Vulnerability\n\tReward: Hall of Fame @ March 2019\n\tLink:https://technet.microsoft.com/en-in/security/cc308575#0318\n\n"
+words = " Microsoft - Host Header Injection Vulnerability\n\tReward: Hall of Fame @ March 2018\n\tLink:https://technet.microsoft.com/en-in/security/cc308575#0318\n\n"
 for char in words:
     sleep(0.02)
     sys.stdout.write(char)
